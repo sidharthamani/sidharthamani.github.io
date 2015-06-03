@@ -1,12 +1,12 @@
 # Site settings
-title: Utter Babbage
+title: wah-lon-zero
 email: sid@rancher.com
 description: > # this means to ignore newlines until "baseurl:"
-  Nothing I say will not be utter babbage - the utter babbage guarantee  
+    Hello there! I'm Sid, a developer working on building cool stuff at Rancher Labs
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sidharthamani.github.io" # the base hostname & protocol for your site
+url: "http://wlan0.github.io" # the base hostname & protocol for your site
 twitter_username: utter_babbage
-github_username:  sidharthamani
+github_username:  wlan0
 
 # Build settings
 markdown: kramdown
